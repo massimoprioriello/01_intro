@@ -1,8 +1,5 @@
 Hey there my name is Massimo
 I go to vanier
 I am a first year student in computer science
-<<<<<<< HEAD
 Concordia is where i will go next
-=======
 I want to be a programmer for google one day or maybe a software engineer
->>>>>>> 9bac785e73d3a3a0ccbda322428d06bedcb753a1
